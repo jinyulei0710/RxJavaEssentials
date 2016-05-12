@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/jinyulei/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava-joins/0.22.0/658135e52e01650a74c276c6e61df276a5247da7/rxjava-joins-0.22.0.jar"
+        revision="24.0.0 rc2"
+        sha1="658135e52e01650a74c276c6e61df276a5247da7">
+        <dex dex="/Users/jinyulei/Desktop/RxJavaEssentials/app/build/intermediates/jill/debug/packaged/rxjava-joins-0.22.0-a06b1f702127976814023ccdd6d65f71caa5a450.jar" />
+    </item>
+    <item
+        jar="/Users/jinyulei/.gradle/caches/modules-2/files-2.1/org.glassfish/javax.annotation/3.1.1-b02/4de55755909bb4bc816f41d19e2db9bf4af6ed45/javax.annotation-3.1.1-b02.jar"
+        revision="24.0.0 rc2"
+        sha1="4de55755909bb4bc816f41d19e2db9bf4af6ed45">
+        <dex dex="/Users/jinyulei/Desktop/RxJavaEssentials/app/build/intermediates/jill/debug/packaged/javax.annotation-3.1.1-b02-5ebdb980f3e1ff3cacd04d04e474a5a5c7899336.jar" />
+    </item>
+    <item
+        jar="/Users/jinyulei/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0-alpha2/support-annotations-24.0.0-alpha2.jar"
+        revision="24.0.0 rc2"
+        sha1="8071e1e6cd07e9253720313d6c14286a7ee424e0">
+        <dex dex="/Users/jinyulei/Desktop/RxJavaEssentials/app/build/intermediates/jill/debug/packaged/support-annotations-24.0.0-alpha2-1b8109b58ef1f7eceb3f25ebfd5b9c38c6a9302a.jar" />
+    </item>
+    <item
+        jar="/Users/jinyulei/Desktop/RxJavaEssentials/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.2.0/jars/classes.jar"
+        revision="24.0.0 rc2"
+        sha1="927e8ef5711b115b65b2f35495d77352be2b3c09">
+        <dex dex="/Users/jinyulei/Desktop/RxJavaEssentials/app/build/intermediates/jill/debug/packaged/classes-e44631ca1196b3f294ff8b8927cf5bf4a9646c67.jar" />
+    </item>
+    <item
+        jar="/Users/jinyulei/Desktop/RxJavaEssentials/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-alpha2/jars/libs/internal_impl-24.0.0-alpha2.jar"
+        revision="24.0.0 rc2"
+        sha1="e460bc069dfd21d22770cf2a2370c9021b9c98a2">
+        <dex dex="/Users/jinyulei/Desktop/RxJavaEssentials/app/build/intermediates/jill/debug/packaged/internal_impl-24.0.0-alpha2-308b7f5399719ed222f98914774291a2b11a3c57.jar" />
+    </item>
+    <item
+        jar="/Users/jinyulei/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.0.0/2534c458682c73f5b9871131ab3098d3f987ca3/okio-1.0.0.jar"
+        revision="24.0.0 rc2"
+        sha1="02534c458682c73f5b9871131ab3098d3f987ca3">
+        <dex dex="/Users/jinyulei/Desktop/RxJavaEssentials/app/build/intermediates/jill/debug/packaged/okio-1.0.0-d0673606bf38239d3f0de01da04395dbc8538ab8.jar" />
+    </item>
+    <item
+        jar="/Users/jinyulei/Desktop/RxJavaEssentials/app/build/intermediates/exploded-aar/com.github.rey5137/material/1.0.0/jars/classes.jar"
+        revision="24.0.0 rc2"
+        sha1="285ec8da540d2b5e0e5b40b325c9321a423326b8">
+        <dex dex="/Users/jinyulei/Desktop/RxJavaEssentials/app/build/intermediates/jill/debug/packaged/classes-3006805547c33e2dcd4d4ac1b094ac8bdaf14802.jar" />
+    </item>
+    <item
+        jar="/Users/jinyulei/Desktop/RxJavaEssentials/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.0/jars/classes.jar"
+        revision="24.0.0 rc2"
+        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
+        <dex dex="/Users/jinyulei/Desktop/RxJavaEssentials/app/build/intermediates/jill/debug/packaged/classes-52b46d46f09df6ee8baf75329cca231d64aa1dcf.jar" />
+    </item>
+    <item
+        jar="/Users/jinyulei/Desktop/RxJavaEssentials/app/build/intermediates/exploded-aar/com.alterego/advancedandroidlogger/1.0.3/jars/classes.jar"
+        revision="24.0.0 rc2"
+        sha1="88c6cd15e610cab7dc158c1f31557f28181e34bc">
+        <dex dex="/Users/jinyulei/Desktop/RxJavaEssentials/app/build/intermediates/jill/debug/packaged/classes-707d77e102059d1352cbd86630cc3f10738f0552.jar" />
+    </item>
+    <item
+        jar="/Users/jinyulei/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.4/3cc424c6eda381bf4aee40dc3ccdecc27b2106aa/rxjava-1.1.4.jar"
+        revision="24.0.0 rc2"
+        sha1="3cc424c6eda381bf4aee40dc3ccdecc27b2106aa">
+        <dex dex="/Users/jinyulei/Desktop/RxJavaEssentials/app/build/intermediates/jill/debug/packaged/rxjava-1.1.4-7a9e67cf2d1c2f2be18ca9ad986428cd6831fd8c.jar" />
+    </item>
+    <item
+        jar="/Users/jinyulei/Desktop/RxJavaEssentials/app/build/intermediates/exploded-aar/com.github.lzyzsd/circleprogress/1.1.0/jars/classes.jar"
+        revision="24.0.0 rc2"
+        sha1="e6f9fb0d2ea982d656d6dca785a9097659395874">
+        <dex dex="/Users/jinyulei/Desktop/RxJavaEssentials/app/build/intermediates/jill/debug/packaged/classes-0c145a174149ecb401f6af581bfcf548e1816343.jar" />
+    </item>
+    <item
+        jar="/Users/jinyulei/Desktop/RxJavaEssentials/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0-alpha2/jars/classes.jar"
+        revision="24.0.0 rc2"
+        sha1="bf5aa3b026d5b5fd9f4ab5e8cf13499b9e016dfb">
+        <dex dex="/Users/jinyulei/Desktop/RxJavaEssentials/app/build/intermediates/jill/debug/packaged/classes-6f233a3a09f6d08b0ec9ef6450475b27a79f2860.jar" />
+    </item>
+    <item
+        jar="/Users/jinyulei/Library/Android/sdk/platforms/android-N/android.jar"
+        revision="24.0.0 rc2"
+        sha1="bbc666e6d05c25be75b0b29dfe19d6fb992b83d6">
+        <dex dex="/Users/jinyulei/Desktop/RxJavaEssentials/app/build/intermediates/jill/debug/runtime/android-d25d191202cd31fb7d7818d7a625c82efd1ce1fa.jar" />
+    </item>
+    <item
+        jar="/Users/jinyulei/Desktop/RxJavaEssentials/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/jars/classes.jar"
+        revision="24.0.0 rc2"
+        sha1="661a632c3b434991d6364690cbe0f786371101cc">
+        <dex dex="/Users/jinyulei/Desktop/RxJavaEssentials/app/build/intermediates/jill/debug/packaged/classes-efba686ce04ec31cee9a568a8dda0e33e419f6d6.jar" />
+    </item>
+    <item
+        jar="/Users/jinyulei/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.0.0/4c8d1536dba3812cc1592090dc20c47a4ed3c35e/okhttp-2.0.0.jar"
+        revision="24.0.0 rc2"
+        sha1="4c8d1536dba3812cc1592090dc20c47a4ed3c35e">
+        <dex dex="/Users/jinyulei/Desktop/RxJavaEssentials/app/build/intermediates/jill/debug/packaged/okhttp-2.0.0-c4e985273083ff5b025105ee66568c8662886a1c.jar" />
+    </item>
+    <item
+        jar="/Users/jinyulei/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar"
+        revision="24.0.0 rc2"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="/Users/jinyulei/Desktop/RxJavaEssentials/app/build/intermediates/jill/debug/packaged/retrofit-1.9.0-2a05a6c033fdd5b814d114d89304d010baa67694.jar" />
+    </item>
+    <item
+        jar="/Users/jinyulei/Desktop/RxJavaEssentials/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0-alpha2/jars/classes.jar"
+        revision="24.0.0 rc2"
+        sha1="df7f6513d6e2aaa302bbac654807c6129b517090">
+        <dex dex="/Users/jinyulei/Desktop/RxJavaEssentials/app/build/intermediates/jill/debug/packaged/classes-7357ce396b50641e6d4a6abae2d37cebb36b2318.jar" />
+    </item>
+    <item
+        jar="/Users/jinyulei/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/18.0/cce0823396aa693798f8882e64213b1772032b09/guava-18.0.jar"
+        revision="24.0.0 rc2"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="/Users/jinyulei/Desktop/RxJavaEssentials/app/build/intermediates/jill/debug/packaged/guava-18.0-737f50612fb0cdca6fe0d4f5f6d1560b5203ddfc.jar" />
+    </item>
+    <item
+        jar="/Users/jinyulei/Desktop/RxJavaEssentials/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.3/jars/classes.jar"
+        revision="24.0.0 rc2"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="/Users/jinyulei/Desktop/RxJavaEssentials/app/build/intermediates/jill/debug/packaged/classes-2731e4393af549036ec5c7b0c8e25195bb2e592c.jar" />
+    </item>
+    <item
+        jar="/Users/jinyulei/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        revision="24.0.0 rc2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/jinyulei/Desktop/RxJavaEssentials/app/build/intermediates/jill/debug/packaged/gson-2.3.1-9a5cf912fe9fde271622765bee85c6677760d034.jar" />
+    </item>
+    <item
+        jar="/Users/jinyulei/Desktop/RxJavaEssentials/app/build/intermediates/exploded-aar/com.jakewharton.rxbinding/rxbinding-support-v4/0.4.0/jars/classes.jar"
+        revision="24.0.0 rc2"
+        sha1="417b075934c24fa45ba94be0f451fd6dec69feb8">
+        <dex dex="/Users/jinyulei/Desktop/RxJavaEssentials/app/build/intermediates/jill/debug/packaged/classes-06d69519a53e28901f300daec59f4e21a23ed223.jar" />
+    </item>
+    <item
+        jar="/Users/jinyulei/Desktop/RxJavaEssentials/app/build/intermediates/exploded-aar/com.jakewharton.rxbinding/rxbinding/0.4.0/jars/classes.jar"
+        revision="24.0.0 rc2"
+        sha1="ffc09f4e5bdebe068e5101f587dadc42b60fbfe4">
+        <dex dex="/Users/jinyulei/Desktop/RxJavaEssentials/app/build/intermediates/jill/debug/packaged/classes-77d275e8158f6b4e6773c322ce9269c73834decb.jar" />
+    </item>
+    <item
+        jar="/Users/jinyulei/.gradle/caches/modules-2/files-2.1/com.nostra13.universalimageloader/universal-image-loader/1.9.3/a85588bec3e2c4584d593d3f15df1677321bca72/universal-image-loader-1.9.3.jar"
+        revision="24.0.0 rc2"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="/Users/jinyulei/Desktop/RxJavaEssentials/app/build/intermediates/jill/debug/packaged/universal-image-loader-1.9.3-33fd14f5736c565a73d89714f22426eabdc745b9.jar" />
+    </item>
+    <item
+        jar="/Users/jinyulei/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-urlconnection/2.0.0/afe8399d352713b66e597e9670c741d1e60ae923/okhttp-urlconnection-2.0.0.jar"
+        revision="24.0.0 rc2"
+        sha1="afe8399d352713b66e597e9670c741d1e60ae923">
+        <dex dex="/Users/jinyulei/Desktop/RxJavaEssentials/app/build/intermediates/jill/debug/packaged/okhttp-urlconnection-2.0.0-3179444b521be87eeb62dcf50b65bdb7cc60c49a.jar" />
+    </item>
+    <item
+        jar="/Users/jinyulei/Desktop/RxJavaEssentials/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-alpha2/jars/classes.jar"
+        revision="24.0.0 rc2"
+        sha1="32ab8bede8cd600f25a5bb3fe15068c81c8910dc">
+        <dex dex="/Users/jinyulei/Desktop/RxJavaEssentials/app/build/intermediates/jill/debug/packaged/classes-90047c8080b7aa86a1d2ee2c1ff61baa0f56395e.jar" />
+    </item>
+
+</items>
