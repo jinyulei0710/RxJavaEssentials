@@ -17,7 +17,6 @@ import android.view.View;
 
 import java.util.ArrayList;
 
-import butterknife.ButterKnife;
 
 public class SoActivity extends AppCompatActivity implements SoAdapter.ViewHolder.OpenProfileListener {
 
@@ -33,7 +32,6 @@ public class SoActivity extends AppCompatActivity implements SoAdapter.ViewHolde
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_so);
-        ButterKnife.bind(this);
         mRecyclerView=(RecyclerView)findViewById(R.id.so_recyclerview);
         mSwipe=(SwipeRefreshLayout)findViewById(R.id.so_swipe);
 
